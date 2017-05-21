@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoviePit</string>
+    <string name="more_info_text">More Info</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+    <string name="homepage_label">Homepage: </string>
+    <string name="status_label">Status: </string>
+    <string name="revenue_label">Revenue: </string>
+    <string name="budget_label">Budget: </string>
+    <string name="genre_label">Genre: </string>
+    <string name="original_language_label">Original Language: </string>
+    <string name="action_settings">Settings</string>
+    <string name="cast_label">Cast</string>
+</resources>

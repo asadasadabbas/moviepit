@@ -1,0 +1,25 @@
+You can do the following exercise in Native Andriod. 
+Thanks for your continued interest, and as mentioned, here is the take home exercise:
+1. We will need you to make a small React Native application that can compile to both iOS and Android. 
+2. Access the movie db API (https://www.themoviedb.org/documentation/api) and pull any collection of movies (top rated, upcoming etc.), the choice is yours. 
+3. Render a ListView component displaying the thumbnail of the movie picture, the title, the creators, and the main actors (you can cap that amount of actors to 2 or 3 if you want). 
+4. The component can have as many items as you please. The more items you can pull, the better (keeping performance in mind)! 
+5. Each cell in the ListView should be able to render a new view with all details of the movie once clicked, let’s call this new view MovieView. What you render inside this component is up to you, but it’s your chance to show us your skills. Display any data you choose of the given movie, and feel free to add visual styling and other cool things. 
+6. You may use any library or tool of you choosing as long as it is open source.
+This exercise is meant to be a short, fun drill and a way for us to gauge your knowledge of app building. We’d love for it to look nice, but it’s not the core focus. Feel free to add view transitions/animations or any other interactions which seem fun to you. Additionally, if you write unit tests, we love seeing those! Plan on spending 4-6 hours max and remember to have fun with it!
+Please complete the assignment and send us a git repo of your app (with a README installation and running instructions) by May 23rd. Please let us know if anything comes up and you need an extension or need more clarification, and feel free to submit earlier if you choose to do so.
+
+
+
+
+https://api.themoviedb.org/3/movie/550?api_key=960d6c47dc5d11ae182e35e9ff429a4d
+API_KEY: 960d6c47dc5d11ae182e35e9ff429a4d
+
+
+https://image.tmdb.org/t/p/w500/2HjngGzVK3NTzptEtsT8E0Hi3ZB.jpg
+https://image.tmdb.org/t/p/w500/7QshG75xKCmClghQDU1ta2BTaja.jpg
+
+
+
+ https://image.tmdb.org/t/p/w500/kFWLxUwcSpiLzszZbxUIZT9g6WR.jpg
+ https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg
